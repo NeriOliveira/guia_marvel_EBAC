@@ -2,7 +2,7 @@
 Curso da EBAC para integração de uma API da Marvel em um aplicativo Android desenvolvido com Kotlin.
 
 ## API Utilizada:
-- (Link da API MARVEL)[https://developer.marvel.com/docs]
+- [Link da API MARVEL](https://developer.marvel.com/docs)
 
 ## Implementando API para Android:
 Desenvolver aplicativos para Android pode ser mais simples do que você imagina. Mas você já pensou em desenvolver uma aplicação que, além dos recursos previamente disponíveis no próprio aparelho do usuário final, consuma dados vindos de uma API externa?
